@@ -23,7 +23,18 @@ public class IfStatements02 {
         if ( num % 2 != 0) {
 
             System.out.println("tek sayı");
+        }
 
+        //2. yol
+        //if else statements
+
+        if (num%2==0){
+            System.out.println("cift sayi");
+
+
+        }else{
+
+            System.out.println("tek sayi");
 
         }
 

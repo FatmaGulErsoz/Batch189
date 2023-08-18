@@ -26,24 +26,24 @@ public class Variables01 {
         //Note : char data type inda degerler her zamn tek tirnak icinde konulmalıdır
             char       isminIlkHarfi          =                  'F'                               ;
 
-            //boolean data type: 1 bit
+        //boolean data type: 1 bit
         //boolean'lar sadece iki farklı değer alabilir;true(dogru) veya false(yalnis)
         //Ornek 2: boolean data type'inde emeklimisin sorusu icin bir variable olusturun ve false degerini atayin.
          boolean isRetired = false;
 
-         //bytte data type:
+        //bytte data type:
         //tam sayilar icindir hafizada 1 byte yer kaplar
         // byte: -128 den +127 e (dahil)kadar tamsayi degerleri icin kullanilir
         //Ornek 3: byte data type'inda ogrenci yasi icin bir variable olusturunuz ve deger atayiniz.
           byte ogrenciYasi = 15;
 
-          //short data type
+        //short data type
         //tam sayilar icindir hafiazda 2 byte yer kaplar
         //short: -32768 ile +32757 arasindaki tam sayilar için kullanilir
         //Ornek 4: Site nufusu icin bir variablr olusturup deger atayiniz
           short siteNufusu = 1234 ;
 
-          //int data type:
+        //int data type:
         //tam sayilar icindir hafizada 4 byte yer kaplar
         //int: -2247483648 ile 2147483647 arasindaki sayilar icinidir
         //Ornek 5: ulke nufusu icindir bir variable olusturup deger atamasi yapiniz
@@ -60,8 +60,9 @@ public class Variables01 {
         //Note: Eger long a atadiginiz deger int'lerin araliginida ise sonnda L koymaya gerek yok
         //ama int'lerin araligi disinda ise bunun long oldugunu sonunda Lkoyarak javaya söylemeliyiz
             long wightOfSun = 89898;
+        System.out.println(wightOfSun);
 
-             // double data type:
+        // double data type:
         //double memory de 8 byte yer kaplar, virgülden sonra ki rakam daha fazla alir
         //double: Virgullu sayilar(Ondalik Sayilar - Decimal Numbers) icin kullanilir. (Hucre Agirligi: 0.000000000000112)
         //Ornek 8: Hucre agirligi icin bir tane variable olusturun
