@@ -37,11 +37,5 @@ public class Scanner01 {
         System.out.println("height = " + height);
         System.out.println("weight = " + weight);
         System.out.println("maritalStatus = " + maritalStatus);
-
-
-
-
-
-
     }
 }

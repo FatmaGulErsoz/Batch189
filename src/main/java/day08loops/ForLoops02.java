@@ -34,7 +34,7 @@ public class ForLoops02 {
 
         }
 
-        //break ile continue arasindaki fark nedir?
+        //break ile continue arasindaki fark nedir?;
         //break switch in disina cikmak icin ve loopu kirmak icin kullanilir.
         //continue ise loop calisirken java bu keywordu okudugunda artirma/azaltma kısmından yoluna devam eder
         //continue loop yaparken bazi kodlari isleme sokmamak icin kullanilir
@@ -53,12 +53,5 @@ public class ForLoops02 {
 
         }
         System.out.println(ters);
-
-
-
-
-
-
-
     }
 }
