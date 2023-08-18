@@ -46,7 +46,7 @@ public class ForLoops03 {
             result=result*i;
             System.out.println(result);
 
-
+        //deneme
 
     }
 }
