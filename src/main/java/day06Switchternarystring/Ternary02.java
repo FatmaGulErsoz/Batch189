@@ -9,7 +9,7 @@ public class Ternary02 {
 
         a=Math.abs(a);
 
-        String result = a>99 && a<1000 ? "uc basamaklıdır" :  "uc basamaklıdır";
+        String result = a>99 && a<1000 ? "uc basamaklıdır" :  "uc basamaklı değildir";
         System.out.println(result);
 
 
