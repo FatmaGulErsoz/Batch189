@@ -17,7 +17,7 @@ public class IfStatements01 {
 
         //Ornek 1:  Sayi -1 ile 10 arasinda ise ekrana "Rakam" yazdirin
 
-        int number = 23;
+        int number = 5;
 
         if (number > -1 && number < 10) {
             System.out.println("Rakam");
@@ -33,34 +33,37 @@ public class IfStatements01 {
             System.out.println("Sayi üç basamaklıdır!");
 
         }
+        System.out.println();
+
+        //eğer emir fatmayı seviyorsa konsoldo Emir Fatmayı çok seviyor gör
 
 
-
-
-
-
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
 
 
 
     }
+
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
