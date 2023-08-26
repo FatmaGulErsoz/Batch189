@@ -14,12 +14,14 @@ public class MethodCreation01 {
         System.out.println(sonuc);
 
 
+
     }//Main method kapanışı
 
 
         //Örnek1: Toplama işlemş yapan bir methd oluşturunuz
         public static int toplamaYap(int a, int b){
-        return a+b;
+              return a+b;
+
         }
 
 
