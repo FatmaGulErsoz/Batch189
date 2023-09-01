@@ -15,7 +15,7 @@ public class Animal {
     Mesela; siz bir class oluşturucaksınız ama daha önce oluşturulmuş bir class sizin istediğiniz özelliklerin bir çoğu kapsıyor.
     O zaman yeni oluşturduğunuz class'ı özelliklerini kullanmak istediğiniz class'a child yaparız
 
-    1)JInhwntiance sayesinde;
+    1)Inheritance sayesinde;
 
        a) Code tekrarlarından kurtuluruz
        b) Code tamiri(maintenance) kolay olur
