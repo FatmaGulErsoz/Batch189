@@ -53,6 +53,7 @@ chlic classdayazarak uygulamasini yapmis olur
      c)   Abstract classlar icinde her turlu variable olusturulabilir interfaceler icindeki variabllar
      public static ve final olmak zorundadir
 
+
      d) interface concrete classin childi olamaz ama absstract class classin childi olabilir
 
      e) abstract classlarda constructor vardir ama object uretemez, intrefaclerde constroctur yoktur
