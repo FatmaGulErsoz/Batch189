@@ -15,6 +15,6 @@ public class Maps01 {
         capitals.get("Turkiye");
         capitals.put("Turkiye","Istanbul");
 
-
+        
     }
 }
