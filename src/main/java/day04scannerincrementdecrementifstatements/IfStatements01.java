@@ -35,7 +35,7 @@ public class IfStatements01 {
         }
         System.out.println();
 
-        //eğer emir fatmayı seviyorsa konsoldo Emir Fatmayı çok seviyor gör
+
 
 
         
