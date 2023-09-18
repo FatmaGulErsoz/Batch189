@@ -41,19 +41,5 @@ public class EnumRunner {
                 }
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
+ }
 }
